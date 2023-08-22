@@ -1,6 +1,5 @@
 "use client"
 
-import MyCard from "./components/card"
 import MyButton from './components/button'
 import MyTitle from './components/title'
 import MySubTitle from './components/subtitle'
